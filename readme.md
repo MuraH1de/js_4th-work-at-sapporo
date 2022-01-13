@@ -15,7 +15,7 @@
 * ブログ一覧を取得できるようにするためにGETコマンドをサーバー側へ投げているのですが、以下のようなエラーが返ってきている状況です。
 
 > Access to XMLHttpRequest at 'https://murah1de:z9uult6ndr@blog.hatena.ne.jp/murah1de/murah1de.hatenablog.com/atom/entry' from origin 'null' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
-#### 'Access-Control-Allow-Origin'の対処法がつかめず、現状に至っております。
+#### 'Access-Control-Allow-Origin'の対処法がつかめず、現状に至っております。何パターンか試しましたが、すべて同じエラーで止まってしまいました。
 
 ## ④その他（感想、シェアしたいことなんでも）
 
